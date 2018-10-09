@@ -1,0 +1,4 @@
+if top(stack) < top(supporting stack):
+    push in supporting stack
+if popElement == top(supporting stack):
+    pop
